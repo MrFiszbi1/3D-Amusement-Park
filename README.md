@@ -1,7 +1,6 @@
 # 3D Amusement-Park
 This was the second project from my computer graphics class at PSU (CS 447). 
-This project consisted of creating a 3D amusement park using OpenGL. This program was created with FLTK. 
-In order to compile and run this program you will need to have FLTK set up.
+This project consisted of creating a 3D amusement park using OpenGL. The 3D assets were designed by me using Blender. This program was created with FLTK. In order to compile and run this program you will need to have FLTK set up.
 
 ![amusment park](https://user-images.githubusercontent.com/95446026/225270829-804fce77-db6b-472f-ac93-f55d42f524b7.PNG)
 ![boatride](https://user-images.githubusercontent.com/95446026/225271107-cf991167-8240-41e4-b7f5-7fc9f7a31376.PNG)
